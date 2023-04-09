@@ -1,0 +1,49 @@
+{
+  "expo": {
+    "name": "vestibularium",
+    "slug": "vestibularium",
+    "version": "1.0.0",
+    "scheme": "vest",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "bundleIdentifier": "com.markineo.vestibularium",
+      "buildNumber": "1.0.1",
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.markineo.vestibularium",
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "70426deb-6789-4280-bff5-040b43b68614"
+      }
+    },
+    "schemes": {
+      "debug": {
+         "build": {
+            "developmentClient": true,
+            "extra": {
+               "author": "Markineo"
+            }
+         }
+      }
+    }
+  }
+}
