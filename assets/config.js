@@ -1,1 +1,1 @@
-export const BASE_URL = "http://192.168.0.9:4545";
+export const BASE_URL = "https://vestibularium.com.br";

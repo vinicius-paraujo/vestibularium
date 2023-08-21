@@ -1,13 +1,14 @@
 // verde = 60e11a
 // azul = 0362fc
 // roxo = ae00ef
+// verde 2 = 0c7a50
 const theme = {
     dark: {
         theme: "dark",
         tColor: "white",
         textButtonColor: "#fff",
         backgroundColor: "#242424",
-        mainCol: "#28a84b",
+        mainCol: "#0c7a50",
         borderColor: "#fff",
         light: "#b8b8b8"
     },

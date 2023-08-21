@@ -32,7 +32,7 @@ export const questionsAreaData = [
         id: "1"
     },
     {
-        poster: "bulb-outline",
+        poster: "hourglass-outline",
         title: "Ciências humanas e suas tecnologias.",
         filter: "Humanas",
         id: "2"
@@ -58,11 +58,6 @@ export const questionsMateriaData = [
         id: "1"
     },
     {
-        poster: "book-outline",
-        title: "Literatura",
-        id: "2"
-    },
-    {
         poster: "brush-outline",
         title: "Artes",
         id: "3"
@@ -83,13 +78,44 @@ export const questionsMateriaData = [
         id: "6"
     },
     {
-        poster: "leaf-outline",
-        title: "Biologia",
+        poster: "hourglass-outline",
+        title: "História",
         id: "7"
+    },
+    {
+        poster: "earth-outline",
+        title: "Geografia",
+        id: "8"
+    },
+    {
+        poster: "school-outline",
+        title: "Filosofia",
+        id: "9"
+    },
+    {
+        poster: "people-outline",
+        title: "Sociologia",
+        id: "10"
     },
     {
         poster: "flask-outline",
         title: "Química",
-        id: "8"
+        id: "11"
     },
+    {
+        poster: "bonfire-outline",
+        title: "Física",
+        id: "12"
+    },
+    {
+        poster: "leaf-outline",
+        title: "Biologia",
+        id: "13"
+    },
+    {
+        poster: "calculator-outline",
+        title: "Matemática",
+        filter: "Matemática",
+        id: "14"
+    }
 ]

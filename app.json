@@ -1,12 +1,15 @@
 {
   "expo": {
-    "name": "vestibularium",
+    "name": "Vestibularium",
     "slug": "vestibularium",
-    "version": "1.0.0",
+    "version": "1.1.0",
     "scheme": "vest",
     "orientation": "portrait",
-    "icon": "./assets/icon.png",
+    "primaryColor": "#ae00ef",
+    "icon": "./assets/adaptive-icon.png",
     "userInterfaceStyle": "light",
+    "originalFullName": "@eu.marcosvi/vestibularium",
+    "runtimeVersion": "exposdk:48.0.0",
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
@@ -15,17 +18,28 @@
     "assetBundlePatterns": [
       "**/*"
     ],
+    "notification": {
+      "icon": "./assets/adaptive-icon.png",
+      "color": "#ae00ef"
+    },
     "ios": {
       "bundleIdentifier": "com.markineo.vestibularium",
       "buildNumber": "1.0.1",
-      "supportsTablet": true
+      "supportsTablet": true,
+      "runtimeVersion": "exposdk:48.0.0"
     },
     "android": {
       "package": "com.markineo.vestibularium",
+      "versionCode": 2,
+      "config": {
+        "googleMobileAdsAppId": "ca-app-pub-5154506787646486~2835212949",
+        "googleMobileAdsAutoInit": true
+      },
       "adaptiveIcon": {
-        "foregroundImage": "./assets/adaptive-icon.png",
+        "foregroundImage": "./assets/icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "runtimeVersion": "exposdk:48.0.0"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -35,15 +49,11 @@
         "projectId": "70426deb-6789-4280-bff5-040b43b68614"
       }
     },
-    "schemes": {
-      "debug": {
-         "build": {
-            "developmentClient": true,
-            "extra": {
-               "author": "Markineo"
-            }
-         }
-      }
+    "updates": {
+      "url": "https://u.expo.dev/70426deb-6789-4280-bff5-040b43b68614"
     }
+  },
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-5154506787646486~2835212949"
   }
 }
