@@ -32,7 +32,7 @@
       "package": "com.markineo.vestibularium",
       "versionCode": 2,
       "config": {
-        "googleMobileAdsAppId": "ca-app-pub-5154506787646486~2835212949",
+        "googleMobileAdsAppId": "ca-app-pub-XXXXX~XXXXX",
         "googleMobileAdsAutoInit": true
       },
       "adaptiveIcon": {
@@ -46,7 +46,7 @@
     },
     "extra": {
       "eas": {
-        "projectId": "70426deb-6789-4280-bff5-040b43b68614"
+        "projectId": "XXXX-XXX-XXX-XXX"
       }
     },
     "updates": {
@@ -54,6 +54,6 @@
     }
   },
   "react-native-google-mobile-ads": {
-    "android_app_id": "ca-app-pub-5154506787646486~2835212949"
+    "android_app_id": "ca=app-pub-XXXXXXX"
   }
 }
