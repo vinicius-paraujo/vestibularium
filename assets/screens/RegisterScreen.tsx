@@ -35,8 +35,8 @@ export default function RegisterScreen({navigation}) {
 
     const {register, googleRegister} = useContext(AuthContext);
     const [request, response, promptAsync] = Google.useAuthRequest({
-        expoClientId: '379686738115-3resrljk4k7e8dgv75h67o2r1cam2vad.apps.googleusercontent.com',
-        androidClientId: '379686738115-otsir0ifitvc9j8vhcidf39mvuqs41g6.apps.googleusercontent.com',
+        expoClientId: 'XXXXXX',
+        androidClientId: 'XXXXXX',
     });
 
     useEffect(() => {
