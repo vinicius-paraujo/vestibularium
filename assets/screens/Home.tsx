@@ -293,7 +293,7 @@ export function Home({navigation}) {
 
             <View style={{marginBottom: 40}}>
             <BannerAd
-                unitId="ca-app-pub-5154506787646486/5503829614"
+                unitId="ca-app-pub-XXXX"
                 size={BannerAdSize.ANCHORED_ADAPTIVE_BANNER}
             />
             </View>
@@ -355,7 +355,7 @@ export function Home({navigation}) {
                 </View>
                 <View style={{marginBottom: 10}}>
                     <BannerAd
-                        unitId="ca-app-pub-5154506787646486/5503829614"
+                        unitId="ca-app-pub-XXXXXX"
                         size={BannerAdSize.ANCHORED_ADAPTIVE_BANNER}
                     />
                 </View>
