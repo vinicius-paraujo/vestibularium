@@ -1,4 +1,4 @@
-# Projeto Educacional React Native
+# Vestibularium - Aplicativo de resolver questões
 
 ## Introdução
 Este projeto é uma aplicação Node.js React Native. Com foco na educação, o aplicativo oferece autenticação responsiva, suporte a temas escuro/claro e um sistema para responder questões.
