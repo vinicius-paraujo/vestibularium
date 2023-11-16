@@ -1,7 +1,7 @@
 # Projeto Educacional React Native
 
 ## Introdução
-Este projeto é uma aplicação Node.js React Native desenvolvida por Markineo. Com foco na educação, o aplicativo oferece autenticação responsiva, suporte a temas escuro/claro e um sistema para responder questões.
+Este projeto é uma aplicação Node.js React Native. Com foco na educação, o aplicativo oferece autenticação responsiva, suporte a temas escuro/claro e um sistema para responder questões.
 
 ## Funcionalidades
 - **Autenticação Responsiva:** Garantindo uma experiência de login adaptável.
