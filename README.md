@@ -13,3 +13,6 @@ Este projeto é uma aplicação Node.js React Native. Com foco na educação, o 
 
 ## Tags
 `Node.js` `React Native` `Educação` `Autenticação` `Tema Escuro` `Questões` `Login com Google` `Expo`
+
+[![Assista](https://img.youtube.com/vi/la43_lrmcOs/maxresdefault.jpg)]([https://youtu.be/la43_lrmcOs](https://youtu.be/la43_lrmcOs))
+
